@@ -1,4 +1,4 @@
-/*
+/* keren zilberman
  * Generates three random integers, each in a given range [a,b),
  * prints them, and then prints the minimal number that was generated.
  */
@@ -16,6 +16,6 @@ public class GenThree {
 	 System.out.println(num2);
 	 System.out.println(num3);
 	 System.out.println("The minimal generated number was " + theMinimal);
-	 }
+	 } 
 
 }
